@@ -36,25 +36,4 @@ Monstipalty Game
 - **README.md:** This file
 
 ## <span style="color:#ff69b4;">License</span>
-
-[Choose a suitable license, e.g., MIT License]
-
-This project is open-source and available under the [License Name] license. Feel free to explore, modify, and learn from the code.
-
-**Future Enhancements**
-
-- **Database Integration:** Implement a database to store player data, scores, and game progress.
-- **[Add other planned enhancements, e.g.,]:**
-    - Improved graphics and sound effects.
-    - Multiplayer mode.
-    - More challenging levels or game modes.
-    - [Any other features you plan to add]
-
-This README provides a basic framework. You can further customize it by:
-
-- Adding more details about the game's mechanics and features.
-- Including screenshots or gameplay videos.
-- Providing instructions on how to compile and run the game.
-- Adding a section for contributing to the project.
-
-Remember to update this README as you progress with the development of Monstipalty Game.
+This project is for educational purposes and is not licensed for commercial use. Feel free to use and adapt it for personal learning.
