@@ -48,11 +48,17 @@ Monstipalty Game
 -**Pnl_sesion_iniciar.java**: Login page
 
 - **Resources:**
+  
 -**avatares/:** Personal avatar images
+  
 -**dados/:** Dice images
+
 -**fondos/:** Background images of the game
+
 -**general/:** General Images
+
 -**numeros/:** Images of the numbers
+
 -  **README.md:** This file
 
 ## <span style="color:#ff69b4;">License</span>
