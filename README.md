@@ -25,7 +25,7 @@ Monstipalty Game is a collection of engaging minigames developed in Java. This R
 
 Monstipalty Game
 
-- **src/main:**
+-**src/main:**
   
 -**ConexionMySQL.java**: Connection with the database
   
