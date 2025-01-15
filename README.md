@@ -10,8 +10,8 @@ Monstipalty Game is a collection of engaging minigames developed in Java. This R
 - **Java Development:** Built entirely using the Java programming language.
 - **Java Swing Usage :** 
     - User Interface (UI) with basic graphics and sound effects.
-    - [Mention any scoring system, leaderboards, or player progression]
-    - [Describe any special game modes or challenges]
+    - Scoring system, leaderboards, and player records
+    - Dices game or Hangman game
 
 ## <span style="color:#ffa500;">Technologies Used</span>
 
@@ -24,15 +24,34 @@ Monstipalty Game is a collection of engaging minigames developed in Java. This R
 ## <span style="color:#32cd32;">Project Structure</span>
 
 Monstipalty Game
-- **src/main/java/ [Package structure]:** 
-    - [Game classes (e.g., Game, Minigame1, Minigame2)]
-    - [Player class (if applicable)]
-    - [UI classes (if applicable)]
-    - [Other necessary classes]
-- **[Add any other relevant folders, e.g.,]:**
-    - **resources/:** For images, sounds, and other assets
-    - **build/:** For compiled Java bytecode
-- **README.md:** This file
+- **src/main:** 
+-**ConexionMySQL.java**: Connection with the database
+
+- **Main_frame.java**: Main page of the game
+
+-**PanelContainer.java**: Game containers, game selection
+
+-**Pnl_ahorcado.java**: Hangman game
+
+-**Pnl_dados.java**: Dice game
+
+-**Pnl_historial.java**: History of games played or points
+
+-**Pnl_menu.java**: Side menu
+
+-**Pnl_sesion.java**: Register or login page
+
+-**Pnl_sesion_crear.java**: User creation page
+
+-**Pnl_sesion_iniciar.java**: Login page
+
+- **Resources:**
+- **avatares/:** Personal avatar images
+- **dados/:** Dice images
+- **fondos/:** Background images of the game
+- **general/:** General Images
+- **numeros/:** Images of the numbers
+-  **README.md:** This file
 
 ## <span style="color:#ff69b4;">License</span>
 This project is for educational purposes and is not licensed for commercial use. Feel free to use and adapt it for personal learning.
