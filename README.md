@@ -67,3 +67,19 @@ This project is for educational purposes and is not licensed for commercial use.
 ## <span style="color:#ff69b4;">Preview</span>
 
 ## <span style="color:#ff69b4;">Title</span>
+![TituloMonstiPalty2](https://github.com/user-attachments/assets/c60176ba-23d3-4a54-b53a-533c84ff7c07)
+
+## <span style="color:#ff69b4;">User Selection</span>
+![SesionIniciarSesion](https://github.com/user-attachments/assets/ac6f5476-2ab1-46ea-add6-4fa1e50eaa7a)
+
+## <span style="color:#ff69b4;">User Creation</span>
+![SesionCrear](https://github.com/user-attachments/assets/25f08320-dad9-410c-9be4-8ac54ae30133)
+
+## <span style="color:#ff69b4;">Avatar Selection</span>
+![Seleccion](https://github.com/user-attachments/assets/0ea6ab5c-b45a-4c6d-8106-4b5c0ac1c523)
+
+## <span style="color:#ff69b4;">Hangman</span>
+![Ahorcado](https://github.com/user-attachments/assets/733779b0-ab82-4de2-8d00-27a3bdf249e2)
+
+## <span style="color:#ff69b4;">Dice Game</span>
+![Dados](https://github.com/user-attachments/assets/38468ca0-29b5-4a3a-9e3f-f1b37ad5e6f2)
