@@ -63,3 +63,7 @@ Monstipalty Game
 
 ## <span style="color:#ff69b4;">License</span>
 This project is for educational purposes and is not licensed for commercial use. Feel free to use and adapt it for personal learning.
+
+## <span style="color:#ff69b4;">Preview</span>
+
+## <span style="color:#ff69b4;">Title</span>
