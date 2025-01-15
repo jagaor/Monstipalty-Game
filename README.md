@@ -2,13 +2,13 @@
 
 Monstipalty Game is a collection of engaging minigames developed in Java. This README provides an overview of the project and instructions for setting it up and using it. 
 
-**Note:** This project currently lacks database integration, which will be implemented in future iterations.
+**Note:** This project currently lacks of the database used for the project
 
 ## <span style="color:#ff6347;">Features</span>
 
 - **Variety of Minigames:** Includes a diverse selection of minigames with unique gameplay mechanics.
 - **Java Development:** Built entirely using the Java programming language.
-- **[Add any specific features here, e.g.,]:** 
+- **Java Swing Usage :** 
     - User Interface (UI) with basic graphics and sound effects.
     - [Mention any scoring system, leaderboards, or player progression]
     - [Describe any special game modes or challenges]
@@ -16,11 +16,10 @@ Monstipalty Game is a collection of engaging minigames developed in Java. This R
 ## <span style="color:#ffa500;">Technologies Used</span>
 
 - **Java:** As the primary programming language for game development.
-- **[List any specific Java libraries used, e.g.,]:** 
-    - [Libraries for graphics, sound, or game development frameworks]
-- **[If applicable, mention any tools used for development, e.g.,]:** 
-    - [Integrated Development Environment (IDE) like Eclipse or IntelliJ IDEA]
-    - [Version control system like Git]
+- **Java Swing:** 
+    - For UI interface
+- **MySQL:** 
+    - Creation and connection of a database to register the puntuation and set records.
 
 ## <span style="color:#32cd32;">Project Structure</span>
 
